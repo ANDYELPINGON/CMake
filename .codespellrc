@@ -1,5 +1,5 @@
 [codespell]
-check-filenames =
+check-filenames =EDITAR @MENCIO IPE
 check-hidden =
 # Disable warnings about binary files
 quiet-level = 2
