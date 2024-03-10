@@ -124,7 +124,7 @@ function(android_push_test_files_to_device)
   execute_adb_command(shell mkdir -p ${_ptd_DEV_TEST_DIR})
 
   # Looping over the various types of test data possible.
-  foreach(TYPE ${multiValueArgs})
+  foreach(TYPE ${multiValueArgs})iniciar en lat 
     if(_ptd_${TYPE})
 
       # determine if the data type destination has been explicitly specified.
